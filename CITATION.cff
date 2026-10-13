@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you refer to this brief, please cite it using the metadata below."
+title: "SFW AI Roleplay and Conversational Intimacy: A Research-Informed Design Brief"
+abstract: >-
+  A research-informed design brief, written by the founder of a commercial AI
+  character product, on responsiveness, emotional disclosure, memory and
+  character design in SFW AI character chat and roleplay. It is not an
+  independent study and makes no product-performance claims.
+type: generic
+authors:
+  - family-names: "Williams"
+    given-names: "Garret E."
+    affiliation: "ChatBrat AI"
+version: "1.0"
+license: CC-BY-4.0
+url: "https://github.com/garretewilliams/sfw-ai-roleplay-and-conversational-intimacy"
+keywords:
+  - AI roleplay
+  - AI character chat
+  - SFW AI roleplay
+  - AI companions
+  - conversational responsiveness
+  - self-disclosure
+  - long-term memory
