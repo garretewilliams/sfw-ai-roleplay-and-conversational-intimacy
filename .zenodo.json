@@ -1,0 +1,49 @@
+{
+  "title": "What Makes an AI Character Worth Coming Back To? Humor, Personality, Emotional Connection, and the Art of Meaningful AI Roleplay",
+  "description": "<p>A research-informed design brief, written by the founder of a commercial AI character product (ChatBrat AI), arguing that compelling AI characters are defined by the quality and consistency of the character experience rather than by how explicit they can be. It uses four official ChatBrat scenarios to illustrate distinct dimensions (personality and voice, humor, emotional responsiveness, chemistry and pacing, creative initiative, memory and user agency) and proposes a checklist for evaluating them.</p><p>It is not an independent study and makes no product-performance claims. No benchmark results are reported.</p>",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "creators": [
+    {
+      "name": "Williams, Garret E.",
+      "affiliation": "ChatBrat AI"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "AI roleplay",
+    "AI character chat",
+    "SFW AI roleplay",
+    "AI companions",
+    "character voice",
+    "humor",
+    "conversational responsiveness",
+    "self-disclosure",
+    "long-term memory"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/garretewilliams/ai-companion-emotional-intelligence-benchmark",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/garretewilliams/ai-character-memory-benchmark",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.1037/0022-3514.74.5.1238",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1093/joc/jqy026",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ],
+  "version": "1.1"
+}
