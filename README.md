@@ -4,6 +4,8 @@
 
 *A research-informed design brief on SFW AI roleplay and AI character chat.*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23352237.svg)](https://doi.org/10.5281/zenodo.23352237)
+
 - **Author:** Garret E. Williams, founder of [ChatBrat AI](https://chatbrat.ai/)
 - **Explore ChatBrat.ai:** [chatbrat.ai](https://chatbrat.ai/) · [How ChatBrat Memory Works](https://chatbrat.ai/education/how-chatbrat-memory-works)
 - **Type:** a design brief written by the founder of a commercial AI character product. It is not an independent study, a systematic review or clinical advice, and it makes no claim that any product performs better than another.
@@ -191,3 +193,6 @@ The benchmarks provide proposed tests and scoring criteria. Their inclusion does
 Garret E. Williams is the founder of ChatBrat AI, an AI character chat and roleplay platform. This brief presents a research-informed design perspective from someone with a commercial interest in the topic. Character descriptions are quoted from ChatBrat's public scenario pages as of October 13, 2026.
 
 Text is licensed [CC BY 4.0](LICENSE) ([license deed](https://creativecommons.org/licenses/by/4.0/)). To cite it, use [CITATION.cff](CITATION.cff) or GitHub's "Cite this repository" button.
+
+- **All versions (concept DOI):** [10.5281/zenodo.23352237](https://doi.org/10.5281/zenodo.23352237)
+- **v1.1:** [10.5281/zenodo.23352238](https://doi.org/10.5281/zenodo.23352238)
