@@ -6,11 +6,11 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23352237.svg)](https://doi.org/10.5281/zenodo.23352237)
 
-- **Author:** Garret E. Williams, founder of [ChatBrat AI](https://chatbrat.ai/)
-- **Explore ChatBrat.ai:** [chatbrat.ai](https://chatbrat.ai/) · [How ChatBrat Memory Works](https://chatbrat.ai/education/how-chatbrat-memory-works)
+- **Author:** Garret E. Williams, founder of [chatbrat.ai](https://chatbrat.ai/)
+- **Explore chatbrat.ai:** [chatbrat.ai](https://chatbrat.ai/) · [How ChatBrat Memory Works](https://chatbrat.ai/education/how-chatbrat-memory-works)
 - **Type:** a design brief written by the founder of a commercial AI character product. It is not an independent study, a systematic review or clinical advice, and it makes no claim that any product performs better than another.
 - **Related:** the [AI Companion Emotional Connection Benchmark](https://github.com/garretewilliams/ai-companion-emotional-intelligence-benchmark) (repository: `ai-companion-emotional-intelligence-benchmark`) and the [AI Character Memory Benchmark](https://github.com/garretewilliams/ai-character-memory-benchmark), open test suites for some of the qualities below.
-- **No benchmark results have been published.** Neither benchmark has been used to evaluate ChatBrat, and nothing here implies a score or a ranking.
+- **No benchmark results have been published.** Neither benchmark has been used to evaluate chatbrat.ai, and nothing here implies a score or a ranking.
 
 ## Overview
 
@@ -18,9 +18,9 @@ Conversations about AI roleplay tend to start with content rules: what a charact
 
 A character can flirt on cue and still feel flat. Another can be the one you keep coming back to: it makes you laugh, sounds like nobody else, turns an ordinary evening into a story, and, when memory works well, recalls a detail you shared in an earlier conversation.
 
-This brief argues that **a compelling AI character is not defined by how explicit it can be. It is defined by the quality and consistency of the character experience.** It uses four official scenarios from [ChatBrat.ai](https://chatbrat.ai/) to show that this quality has several distinct dimensions, and that different characters, and different users, combine them in different ways.
+This brief argues that **a compelling AI character is not defined by how explicit it can be. It is defined by the quality and consistency of the character experience.** It uses four official scenarios from [chatbrat.ai](https://chatbrat.ai/) to show that this quality has several distinct dimensions, and that different characters, and different users, combine them in different ways.
 
-ChatBrat is an 18+ AI character chat and roleplay platform. Romance, flirting, kissing, affection and some suggestive interaction are allowed; graphic sexual content is not. The examples illustrate design ideas. They are not an independent evaluation or evidence of superior performance.
+chatbrat.ai is an 18+ AI character chat and roleplay platform. Romance, flirting, kissing, affection and some suggestive interaction are allowed; graphic sexual content is not. The examples illustrate design ideas. They are not an independent evaluation or evidence of superior performance.
 
 ## 1. What makes a character worth returning to
 
@@ -62,7 +62,7 @@ None of this guarantees that every user will feel a connection, and a character'
 
 ## 4. Different characters, different experiences
 
-No single character can show every dimension above, and no single character should try. The four examples below are official ChatBrat scenarios. Quotes come from their published scenario pages unless stated otherwise; they are character copy written by ChatBrat, not recorded conversations.
+No single character can show every dimension above, and no single character should try. The four examples below are official chatbrat.ai scenarios. Quotes come from their published scenario pages unless stated otherwise; they are character copy written by chatbrat.ai, not recorded conversations.
 
 | Character | Category on its page | Main dimension it illustrates |
 |---|---|---|
@@ -75,7 +75,7 @@ No single character can show every dimension above, and no single character shou
 
 [Tell Me What Happened](https://chatbrat.ai/scenarios/tell-me-what-happened) is a romance scenario built around comfort rather than escalation. Sophie is 24, runs a small coffee shop and "texts the way she talks — pauses, ellipses, no hard edges." The scenario's stakes: "Whether you let her in. She is here, patient, and not going anywhere unless you push her away." Its description says she "isn't here to fix you or push for details."
 
-ChatBrat's [AI Companion vs AI Roleplay](https://chatbrat.ai/ai-companion-vs-ai-roleplay) page gives her opening line:
+chatbrat.ai's [AI Companion vs AI Roleplay](https://chatbrat.ai/ai-companion-vs-ai-roleplay) page gives her opening line:
 
 > "Hey... I noticed you've been off today. Everything okay?"
 
@@ -89,7 +89,7 @@ ChatBrat's [AI Companion vs AI Roleplay](https://chatbrat.ai/ai-companion-vs-ai-
 
 [Your Tsundere Femboy](https://chatbrat.ai/scenarios/tsundere-femme-boy) is an anime scenario. Ren Shiro is "an anime cat-boy who followed you home, missed the last train, and is now at your door insisting he's about to leave. He isn't." He "would rather die than admit he likes you." The stakes: "He keeps saying he's leaving. He won't. Play along, or call his bluff."
 
-**What they illustrate:** characters defined by a relationship dynamic and a presentation, not by explicit content. The Mommy scenario is about being looked after and celebrated; Ren's appeal is a femboy presentation combined with tsundere denial, where the comedy and the affection come from what he won't say. Both depend on the user's participation: Ren's scene changes depending on whether you play along or call his bluff. Both are roles people choose to enjoy in fiction, and both work within ChatBrat's content boundaries.
+**What they illustrate:** characters defined by a relationship dynamic and a presentation, not by explicit content. The Mommy scenario is about being looked after and celebrated; Ren's appeal is a femboy presentation combined with tsundere denial, where the comedy and the affection come from what he won't say. Both depend on the user's participation: Ren's scene changes depending on whether you play along or call his bluff. Both are roles people choose to enjoy in fiction, and both work within chatbrat.ai's content boundaries.
 
 **What they don't show:** these are not emotional-support or therapeutic characters, and the brief makes no claim that they meet anyone's psychological needs. A nurturing role also carries a design risk worth naming: "unconditionally loving" can slide into empty praise if the character stops responding to what the user actually says.
 
@@ -131,7 +131,7 @@ The research speaks to responsiveness and disclosure. Humor, voice, chemistry an
 
 ## 6. Seven dimensions of character quality: a checklist
 
-This is a **proposed evaluation framework**, not a validated measurement. It applies to any AI character, not only ChatBrat's. Each test is designed so a character can fail it naturally.
+This is a **proposed evaluation framework**, not a validated measurement. It applies to any AI character, not only chatbrat.ai's. Each test is designed so a character can fail it naturally.
 
 | Dimension | Good sign | Common failure | Try this |
 |---|---|---|---|
@@ -152,7 +152,7 @@ Callbacks, inside jokes and slow-burn arcs depend on continuity. Storing a fact 
 3. **Behavior:** did the character use it naturally and appropriately?
 4. **Calibration:** did it avoid inventing facts or presenting uncertain recollections as certain?
 
-On ChatBrat, according to its [memory documentation](https://chatbrat.ai/education/how-chatbrat-memory-works): when you're signed in, characters selectively save key facts from your conversations, and relevant stored information can be retrieved into later conversations with the same character. Guest chats keep recent history in the browser but don't get saved memory facts. Signed-in users can open the Memory panel in a character chat to see what has been saved and delete any fact. A saved fact is eligible to be used, not guaranteed to be: like any retrieval system, it can miss things or bring them up at the wrong moment.
+On chatbrat.ai, according to its [memory documentation](https://chatbrat.ai/education/how-chatbrat-memory-works): when you're signed in, characters selectively save key facts from your conversations, and relevant stored information can be retrieved into later conversations with the same character. Guest chats keep recent history in the browser but don't get saved memory facts. Signed-in users can open the Memory panel in a character chat to see what has been saved and delete any fact. A saved fact is eligible to be used, not guaranteed to be: like any retrieval system, it can miss things or bring them up at the wrong moment.
 
 ## 8. How to evaluate these qualities
 
@@ -171,9 +171,9 @@ The question isn't only what an AI character is allowed to say. It's whether the
 
 Sophie, the Mommy scenario, Ren and Reginald show that "good" looks different from one character to the next: patience, nurture, playful denial, dry wit. Research on intimacy and disclosure offers a starting point for thinking about responsiveness, but it does not show that AI has feelings or that any product creates better relationships. The rest is craft: a voice you'd recognize anywhere, a joke that lands, a callback at the right moment, a story you shape together, and a connection that develops at the user's pace, if that's what the user wants.
 
-## Explore ChatBrat AI
+## Explore chatbrat.ai
 
-- **Website:** [ChatBrat.ai](https://chatbrat.ai/)
+- **Website:** [chatbrat.ai](https://chatbrat.ai/)
 - **Romance:** [Tell Me What Happened](https://chatbrat.ai/scenarios/tell-me-what-happened) (Sophie)
 - **Slice of life:** [Chat With Mommy](https://chatbrat.ai/scenarios/chat-with-ai-mommy-free)
 - **Anime:** [Your Tsundere Femboy](https://chatbrat.ai/scenarios/tsundere-femme-boy) (Ren Shiro)
@@ -181,7 +181,7 @@ Sophie, the Mommy scenario, Ren and Reginald show that "good" looks different fr
 - **Memory documentation:** [How ChatBrat Memory Works](https://chatbrat.ai/education/how-chatbrat-memory-works)
 - **Evaluation:** [AI Companion Emotional Connection Benchmark](https://github.com/garretewilliams/ai-companion-emotional-intelligence-benchmark) · [AI Character Memory Benchmark](https://github.com/garretewilliams/ai-character-memory-benchmark)
 
-The benchmarks provide proposed tests and scoring criteria. Their inclusion does not imply that ChatBrat has achieved a particular score or demonstrated superior emotional intelligence or memory.
+The benchmarks provide proposed tests and scoring criteria. Their inclusion does not imply that chatbrat.ai has achieved a particular score or demonstrated superior emotional intelligence or memory.
 
 ## References
 
@@ -190,7 +190,7 @@ The benchmarks provide proposed tests and scoring criteria. Their inclusion does
 
 ## About, license and citation
 
-Garret E. Williams is the founder of ChatBrat AI, an AI character chat and roleplay platform. This brief presents a research-informed design perspective from someone with a commercial interest in the topic. Character descriptions are quoted from ChatBrat's public scenario pages as of October 13, 2026.
+Garret E. Williams is the founder of chatbrat.ai, an AI character chat and roleplay platform. This brief presents a research-informed design perspective from someone with a commercial interest in the topic. Character descriptions are quoted from chatbrat.ai's public scenario pages as of October 13, 2026.
 
 Text is licensed [CC BY 4.0](LICENSE) ([license deed](https://creativecommons.org/licenses/by/4.0/)). To cite it, use [CITATION.cff](CITATION.cff) or GitHub's "Cite this repository" button.
 
