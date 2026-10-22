@@ -196,3 +196,7 @@ Text is licensed [CC BY 4.0](LICENSE) ([license deed](https://creativecommons.or
 
 - **All versions (concept DOI):** [10.5281/zenodo.23352237](https://doi.org/10.5281/zenodo.23352237)
 - **v1.1:** [10.5281/zenodo.23352238](https://doi.org/10.5281/zenodo.23352238)
+
+## Readable PDF and archived versions
+
+A [PDF companion](23411582-documentation.pdf) is available for the archived 1.1.1 documentation. See [archive and version notes](ZENODO.md) and the [published Zenodo version](https://zenodo.org/records/23554953). This documentation update adds no benchmark results or new software-release claim.
